@@ -63,10 +63,10 @@ export default function Layout() {
             <h4 className="font-semibold mb-4">Contact</h4>
             <div className="space-y-3 text-gray-400 text-sm">
               <div className="flex items-center gap-2">
-                <Mail size={16} /> info@schoolerp.com
+                <Mail size={16} /> ap2724794@gmail.com
               </div>
               <div className="flex items-center gap-2">
-                <Phone size={16} /> +91 98765 43210
+                <Phone size={16} /> +91 7536035890
               </div>
             </div>
           </div>
