@@ -5,6 +5,7 @@ import About from "./components/About";
 import Plans from "./components/Plans";
 import Login from "./components/Login";
 import Signup from "./components/Signup";
+import School_ERP from "./components/School_ERP";
 
 export const router = createBrowserRouter([
   {
@@ -24,4 +25,8 @@ export const router = createBrowserRouter([
     path: "/signup",
     Component: Signup,
   },
+  {
+    path: "/school-erp",
+    Component: School_ERP,
+  }
 ]);
